@@ -1,0 +1,26 @@
+333:009:NOT !
+321:008:JUST KIDDING !
+400:001:what if
+101:001:I just came here!
+101:002:What happened ?
+101:003:Ask me again;
+500:004:I'm Dying !
+005:006:howdy stranger !
+232:013:Hello, Mother, I can't talk right now,
+500:001:HELP ME SIR !
+021:001:HEY, GUESS WHAT ?!?
+002:223:wtf man
+002:222:hello man
+101:017:Here is a message from an important visitor:
+232:015:I am being harangued by a little green thingy.
+321:001:My name is Phealey Hang:
+333:005:I am the best programmer in the world !
+101:021:"Greetings, earthlings, I have to rule you!"
+099:001:"WTF"
+001:005:HI THERE MATE
+500:002:Stop hurting me!
+099:005: is this !
+333:008:JUST KIDDING BRO !
+002:255:GUY MAN
+021:221:sexy and i know it lol lol
+END
